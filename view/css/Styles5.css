@@ -1,0 +1,57 @@
+
+             body{
+                background-image: url("images/1.png");
+                background-size: 1920px 1080px;
+                background-repeat: no-repeat;
+                 opacity: 0.9;
+      }
+      
+      form{
+          text-align: center;
+          font-size: 20px;
+          color: white;
+          background-color: black;
+          opacity: 0.9;
+      }
+
+      input[type=text], select {
+                            width: 12%;
+                            padding: 12px 20px;
+                            margin: 8px 0;
+                            display: inline-block;
+                            border: 1px solid #ccc;
+                            border-radius: 4px;
+    
+      }
+      input[type=password], select {
+                                  width: 12%;
+                                  padding: 12px 20px;
+                                  margin: 8px 0;
+                                  display: inline-block;
+                                  border: 1px solid #ccc;
+                                  border-radius: 4px;
+    
+      }
+  
+
+      input[type=submit] {
+                            width: 5%;
+                            background-color: #4CAF50;
+                            color: white;
+                            padding: 14px 20px;
+                            margin: 8px ;
+                            border: none;
+                            border-radius: 4px;
+                            cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+                               background-color: #45a049;
+      }
+
+      div {
+          border-radius: 10px;
+          
+          
+    
+      }
